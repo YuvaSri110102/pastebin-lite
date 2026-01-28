@@ -235,11 +235,9 @@ The deployed app starts successfully without manual database migrations or shell
 
 ## Submission Details
 
-* **Deployed URL:** [https://your-app.vercel.app](https://your-app.vercel.app)
-* **GitHub Repository:** [https://github.com/your-username/pastebin-lite](https://github.com/your-username/pastebin-lite)
-
-(Replace the above URLs with your actual links.)
-
+* **Deployed URL:** [https://your-app.vercel.app](https://pastebin-lite-test.vercel.app)
+* **GitHub Repository:** [https://github.com/your-username/pastebin-lite](https://github.com/YuvaSri110102/pastebin-lite)
+  
 ---
 
 ## Repository Notes
@@ -257,5 +255,3 @@ The deployed app starts successfully without manual database migrations or shell
 This project is designed to fully meet the functional, robustness, and repository requirements of the take-home assignment and to pass automated evaluation.
 
 Thank you for the opportunity.
-
-````
