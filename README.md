@@ -235,8 +235,8 @@ The deployed app starts successfully without manual database migrations or shell
 
 ## Submission Details
 
-* **Deployed URL:** [https://your-app.vercel.app](https://pastebin-lite-test.vercel.app)
-* **GitHub Repository:** [https://github.com/your-username/pastebin-lite](https://github.com/YuvaSri110102/pastebin-lite)
+* **Deployed URL:** [https://pastebin-lite-test.vercel.app](https://pastebin-lite-test.vercel.app)
+* **GitHub Repository:** [https://github.com/YuvaSri110102/pastebin-lite](https://github.com/YuvaSri110102/pastebin-lite)
   
 ---
 
